@@ -1,1 +1,1 @@
-# Winter-Project-Modified-Resnet-18-on-histopathologic-cancer-
+# 2021 Winter Project: Histopathologic Image Classification using Modified CNN and Resnet-18
