@@ -1,1 +1,1 @@
-# 2021 Winter Project: Histopathologic Image Classification using Modified CNN and Resnet-18
+# 2021 Winter Project 2: Adversarial Training on Histopathologic Images
