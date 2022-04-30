@@ -4,4 +4,4 @@ This is the official repository of the code of **"Impact of Adversarial Training
 ### Code
 You may check the **"adversarial_training_histopathological_image.ipynb"** code for all the details and experiments.
 * Dataset: [Histopathologic Cancer Detection Images](https://www.kaggle.com/c/histopathologic-cancer-detection)
-* Attack Method: Fast Gradient Sign Method (paper: "[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)")
+* Attack Method: Fast Gradient Sign Method (paper: *"[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)"*)
